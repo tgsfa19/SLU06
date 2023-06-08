@@ -1,3 +1,4 @@
 -nabos
 -cebolas
 -feijão
+-cenouras
